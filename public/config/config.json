@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x329bD2E9a398FB8bF436e223cdf328A87e3c847e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x329bD2E9a398FB8bF436e223cdf328A87e3c847e",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MetaOtters",
+  "SYMBOL": "METAOTTERS",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 80000000000000000,
+  "WHITELIST_WEI_COST": 30000000000000000,
+  "WHITELIST_COST":0.03,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}

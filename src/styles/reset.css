@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+@font-face {
+  font-family: 'ComicSansMS3';
+  src: local('ComicSansMS3'),
+       url('./ComicSansMS3.ttf') format('opentype');
+}
+
+body {
+  width:100%;
+  font-family:ComicSansMS3 !important;
+  padding-bottom: 20px;
+  background:linear-gradient(rgba(148, 138, 210,0.5),rgba(148, 138, 210,0.5)),url(../assets/background.jpg) ;
+  padding-bottom: 50px;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+html {
+  background-color: "#4C4C4C";
+}
+
+div {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -o-user-select: none;
+}
+
